@@ -5,7 +5,7 @@ date:   2019-06-10 17:45:00 +0530
 categories: Python REST-API Flask
 ---
 Flask is the micro-framework which we’ll be using to develop some REST API and deploying them for a web application. Micro-framework are basically the frameworks which are having very less or no dependencies to external libraries or packages which simply means that the framework is light.
-<img src="assets/image1.jpg">
+<img src="/assets/image1.png">
 Here are the things which we’ll do in this article:
 
 1. Making a normal Python application which do some prediction based on the trained dataset.
