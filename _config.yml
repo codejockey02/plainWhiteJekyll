@@ -11,7 +11,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Priyesh Saraswat
-  tagline: A Learner. A Backend Developer.
+  tagline: A Backend Developer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
