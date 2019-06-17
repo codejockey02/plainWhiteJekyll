@@ -5,8 +5,6 @@ date:   2019-06-05 17:45:00 +0530
 categories: Nodejs Javascript MongoDB Cloudinary
 ---
 
-<img src="https://cdn-images-1.medium.com/max/800/1*RYEf3BOr-FrdhoEwBhIXWw.png" class="center">
-
 Nodejs is a widely used to develop REST APIs which can support the services for both web as well as Android/IOS Apps. The best thing about Nodejs is it’s Asynchronous behaviour which do not let any client stop from accessing the requested route.
 
 This article mainly focuses on how can we upload files (which can be of any type, but I’ll be using the example of an image in this article) through Nodejs using the NPM Package Multer and then how to store the URL of that file along with other details in MongoDB Database so that it can be retrieved whenever requested. Now, let’s go step by step:

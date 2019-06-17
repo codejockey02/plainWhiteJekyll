@@ -1,5 +1,5 @@
 title: Blog | Priyesh Saraswat
-author: GitHub User
+author: codejockey02
 email: priyeshsaraswat9@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   A blog for the community.
@@ -11,7 +11,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Priyesh Saraswat
-  tagline: Developer || Designer
+  tagline: A Learner. A Backend Developer.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
@@ -20,8 +20,7 @@ plainwhite:
     twitter: __priyesh
     github:  codejockey02
     linkedIn: in/priyeshs2
-    rss: rss
-    email: priyeshsaraswat9@gmail.com
+    rss: rss Made with <3 using Jekyll
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
