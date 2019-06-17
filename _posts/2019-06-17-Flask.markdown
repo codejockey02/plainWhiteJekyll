@@ -42,7 +42,9 @@ print(send)
 ```
 Set up the environment before running this code. I prefer having Anaconda and Spyder. You can also run it on IDLE provided you are having the libraries that are required.
 If you run the above snippet, it should give output like this:
-![My helpful screenshot](/assets/image2.png)
+
+<img src="https://cdn-images-1.medium.com/max/800/1*ghUTBZv4lfy5M39VE5cWfQ.png" class="center>
+
 Till now, everything is going good. It’s time setup Flask now.
 
 Run this simple command on your Terminal and the micro-framework will be installed:
@@ -105,7 +107,9 @@ You can test it using Postman, the routes should be working fine.
 ```
 python main.py
 ```
-![My helpful screenshot](/assets/image3.png)
+
+<img src="https://cdn-images-1.medium.com/max/800/1*OG7M7MrU_neAh1twbQDHKQ.png" class="center">
+
 Now, let’s move to the easiest part. To make a front-end to send text data and get the review. “KIDS STUFF”
 
 P.S: Ignore the styling.
@@ -225,4 +229,4 @@ So, the web application is ready now. You can run it on localhost now.
 ```
 python main.py
 ```
-![My helpful screenshot](/assets/image4.png)
+<img src="https://cdn-images-1.medium.com/max/800/1*ZcC0W52C_2NmNJMz1yBo3A.png" class="center">
