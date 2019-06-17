@@ -43,7 +43,7 @@ print(send)
 Set up the environment before running this code. I prefer having Anaconda and Spyder. You can also run it on IDLE provided you are having the libraries that are required.
 If you run the above snippet, it should give output like this:
 
-<img src="https://cdn-images-1.medium.com/max/800/1*ghUTBZv4lfy5M39VE5cWfQ.png" class="center>
+<img src="https://cdn-images-1.medium.com/max/800/1*ghUTBZv4lfy5M39VE5cWfQ.png" class="center">
 
 Till now, everything is going good. It’s time setup Flask now.
 
